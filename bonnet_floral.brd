@@ -161,10 +161,10 @@
 <wire x1="65.5" y1="29" x2="65.5" y2="1" width="0.4064" layer="21"/>
 <wire x1="37.5" y1="1" x2="37.5" y2="4.75" width="0.4064" layer="21"/>
 <wire x1="37.5" y1="24" x2="37.5" y2="28.5" width="0.4064" layer="21"/>
-<text x="50.5" y="7.5" size="1.27" layer="22" rot="MR0" align="center">Floral Bonnet V0.9.1
+<text x="52.3415" y="7.5" size="1.143" layer="22" font="vector" rot="MR0" align="center">Floral Bonnet V0.9.1
 John 'Warthog9' Hawley
 (C) 2018 CC-BY-SA 4.0</text>
-<text x="52" y="19" size="1.27" layer="22" rot="MR180" align="center">Specifically Designed for:
+<text x="52.3415" y="19.635" size="1.143" layer="22" font="vector" rot="MR180" align="center">Specifically Designed for:
 E-ALE https://e-ale.org/
 for linux.conf.au 2019</text>
 <text x="19" y="16" size="1.016" layer="21" rot="R45">5V</text>
@@ -179,7 +179,7 @@ for linux.conf.au 2019</text>
 <text x="26.625" y="16" size="1.016" layer="22" rot="MR45">RX</text>
 <text x="29.25" y="16" size="1.016" layer="22" rot="MR45">DTR</text>
 <text x="31.75" y="16.125" size="1.016" layer="22" rot="MR45">3.3V</text>
-<text x="51.5" y="4" size="0.9" layer="22" rot="MR0" align="center">https://github.com/unreproducible/bonnet_floral</text>
+<text x="50.738" y="4.0635" size="0.7112" layer="22" font="vector" rot="MR0" align="center">https://github.com/unreproducible/bonnet_floral</text>
 </plain>
 <libraries>
 <library name="Raspberry_Pi_Zero_W_(v1.3)">
@@ -2732,8 +2732,6 @@ design rules under a new name.</description>
 <approved hash="18,30,d83b65c7ae523a5c"/>
 <approved hash="18,30,d12ff00b6b39f8fd"/>
 <approved hash="18,30,82522a37c75dbcb9"/>
-<approved hash="18,30,bfab771ec60c0bb8"/>
-<approved hash="18,30,5cbc1cdc19f85998"/>
 <approved hash="5,1,e189cbbe55df8837"/>
 <approved hash="5,1,198833a00541d8b6"/>
 <approved hash="5,1,fd89d7abbaca6737"/>
