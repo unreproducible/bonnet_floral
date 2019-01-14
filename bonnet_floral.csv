@@ -1,0 +1,15 @@
+Part,Qty,Value,Device,Package,Description,PROD_ID,SF_SKU,VALUE,Expected Cost,Link to example:
+BME280,1,,BME280 subassembly,BME280 subassembly,BME280 subassembly,,,,$4.50,https://www.alibaba.com/product-detail/3In1-BME280-Digital-Temperature-Humidity-Barometric_60760099302.html?spm=a2700.7724838.2017115.253.694558742U4tcz
+D1,1,CLEAR,LED-RGB-CCCLEAR,LED-RGB-THRU@1,LED-RGB Common Cathode,DIO-08418,,CLEAR,1.02,https://www.digikey.com/product-detail/en/inolux/HV-5RGB25/1830-1015-ND/7604615
+IC1,,RASPBERRY_PI_ZERO_W_(V1.3)-WOUT-RUNTVNOMOUNT,RASPBERRY_PI_ZERO_W_(V1.3)-WOUT-RUNTVNOMOUNT,RASPBERRYPIZEROWV13-WOUT-RUNTV-NOMOUNT,Raspberry Pi Zero W (v1.3) Single-board Computers (installed on back of board),,,,1.15,https://www.digikey.com/product-detail/en/sullins-connector-solutions/SFH11-PBPC-D10-ST-BK/S9197-ND/1990090
+OLED_SCREEN,,,0.96in SPI OLED subassembly,0.96in SPI OLED subassembly,0.96in SPI OLED subassembly,,,,3.48,https://www.alibaba.com/product-detail/SPI-IIC-interface-SSD1306-micro-oled_60581789872.html?spm=a2700.7724838.2017115.97.1e0251395zb6Rn
+R1,, ,RESISTORAXIAL-0.3 – 100 Ohm,AXIAL-0.3,Generic Resistor Package, ,, ,$0.01,"Note: Whatever is close, and cheap is fine (120Ohm would work)"
+R2,, ,RESISTORAXIAL-0.3 – 150 Ohm,AXIAL-0.3,Generic Resistor Package, ,, ,$0.01,"Note: Whatever is close, and cheap is fine (200Ohm would work)"
+R3,, ,RESISTORAXIAL-0.3 – 150 Ohm,AXIAL-0.3,Generic Resistor Package, ,, ,$0.01,"Note: Whatever is close, and cheap is fine (200Ohm would work)"
+S1,,MOMENTARY-SWITCH-SPST-PTH-6.0MM,MOMENTARY-SWITCH-SPST-PTH-6.0MM,TACTILE_SWITCH_PTH_6.0MM,Momentary Switch (Pushbutton) - SPST, SWCH-08441,COM-00097,,0.11,https://www.digikey.com/product-detail/en/te-connectivity-alcoswitch-switches/1825910-6/450-1650-ND/1632536
+TSL2561,,,TSL2561 subassembly,TSL2561 subassembly,TSL2561 subassembly,,,,1.1,https://www.alibaba.com/product-detail/GY-2561-TSL2561-Light-Intensity-Luminosity_60419642969.html?spm=a2700.7724838.2017115.1.4ef6734fqkUjTM&s=p
+UART,,,CP2102 subassembly,CP2102 subassembly,CP2102 subassembly,,,,1.01,https://www.alibaba.com/product-detail/6Pin-Serial-Converter-UART-STC-CP2102_60768471247.html?spm=a2700.7724838.2017115.13.4fbb3c8dtSsn8p&s=p
+,,,,,,,Total per board (parts):,,12.40708,
+,,,,,,,Rough assembly costs:,,3.8,
+,,,,,,,Shipping to US,,0.32,
+,,,,,,,Rough total cost:,,16.52708,
