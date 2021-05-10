@@ -1,0 +1,9 @@
+./gitclone.sh
+python button.py 
+python RGBLed.py 
+cd BME280/Python/
+watch -n 1 python BME280.py 
+cd TSL2561/Python/
+python TSL2561.py 
+cd luma.examples/examples/
+python3 bounce.py --display ssd1306 --width 128 --height 64 --interface spi --spi-port 0 --spi-device 0 --gpio-reset 24 --gpio-data-command 23 
