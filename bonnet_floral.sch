@@ -2447,6 +2447,11 @@ DIN A3, landscape with location and doc. field</description>
 <wire x1="27.94" y1="73.66" x2="12.7" y2="73.66" width="0.1524" layer="91"/>
 <wire x1="12.7" y1="73.66" x2="12.7" y2="81.28" width="0.1524" layer="91"/>
 </segment>
+<segment>
+<pinref part="UART" gate="A" pin="6"/>
+<wire x1="154.94" y1="218.44" x2="137.16" y2="218.44" width="0.1524" layer="91"/>
+<label x="137.16" y="218.44" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="GND" class="0">
 <segment>
@@ -2782,13 +2787,6 @@ DIN A3, landscape with location and doc. field</description>
 <pinref part="IC1" gate="G$1" pin="SPI0_CE1_N/GPIO_8"/>
 <wire x1="101.6" y1="40.64" x2="116.84" y2="40.64" width="0.1524" layer="91"/>
 <label x="111.76" y="40.64" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="UART_5V" class="0">
-<segment>
-<pinref part="UART" gate="A" pin="6"/>
-<wire x1="154.94" y1="218.44" x2="137.16" y2="218.44" width="0.1524" layer="91"/>
-<label x="137.16" y="218.44" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="UART_3.3V" class="0">
